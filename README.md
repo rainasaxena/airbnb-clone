@@ -2,10 +2,6 @@
 
 This project is a clone of the Airbnb website for Delhi, India. It is built using React with Vite setup, and it is fully responsive.
 
-# Airbnb Delhi Clone
-
-This project is a clone of the Airbnb website for Delhi, India. It is built using React with Vite setup, and it is fully responsive.
-
 ## Getting Started
 
 To run the application locally, follow these steps:
